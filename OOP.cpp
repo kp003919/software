@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+/*
+  This file implements Base and drive class for different animals */
 
 // Base class
 class Animal {
